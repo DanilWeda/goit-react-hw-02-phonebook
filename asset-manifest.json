@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nameofrepo/static/css/main.5bd6be1c.css",
+    "main.js": "/nameofrepo/static/js/main.c0dcc638.js",
+    "index.html": "/nameofrepo/index.html",
+    "main.5bd6be1c.css.map": "/nameofrepo/static/css/main.5bd6be1c.css.map",
+    "main.c0dcc638.js.map": "/nameofrepo/static/js/main.c0dcc638.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd6be1c.css",
+    "static/js/main.c0dcc638.js"
+  ]
+}
